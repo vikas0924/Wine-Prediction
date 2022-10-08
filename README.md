@@ -13,4 +13,4 @@ Data Description
 7. Taster name - Name of the Taster.
 8. Title - Title given to the wine.
 9. Variety - Types of Wine.
-10. Winery - Places (Restaurent, bars,etc) 
+10. Winery - Places (Restaurants, bars,etc) 
